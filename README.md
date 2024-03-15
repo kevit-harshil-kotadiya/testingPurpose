@@ -26,6 +26,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## PostmanCollection
+
+#### - import the postman collection and postman evnironment given in the postman folder
+#### - api examples has been provided in the postman collection for your reference
+
 ## Installation
 
 ```bash
@@ -45,18 +50,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
 
 ## Support
 
